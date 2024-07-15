@@ -2,11 +2,21 @@
 body {
     background-color: #aae86b;
 }
+
 p {
     font-size: 24px;
     color: #ff0000;
 }
+
 h1 {
     color: aliceblue;
 }
+
+.ugly-paragraph {
+    background-color: #637318;
+    color: blue;
+    font-family: cursive;
+    font-size: 48px;
+}
+
 /* actual CSS ends here */
